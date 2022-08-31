@@ -60,3 +60,59 @@ body{
     top: 0px;
 }
 
+
+
+/*===============IMAGES===============/*
+#img1-1-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img1-2-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img1-3-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img2-1-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img2-2-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img2-3-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img3-1-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img3-2-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
+
+#img3-3-draggable{
+    position: absolute;
+    right:10px;
+    top: 40px;
+}
